@@ -1,4 +1,4 @@
-#### The Desert Locust 3 Achievement is awarded to registered Coderwall members that have open sourced at least three original repo where Erlang is the dominant language.
+#### The Desert Locust 3 Achievement is awarded to registered Coderwall members that have open sourced at least three original repos where Erlang is the dominant language.
 
 ## What is Coderwall
 
